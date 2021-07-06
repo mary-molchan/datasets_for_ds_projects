@@ -1,0 +1,19 @@
+Image datasets are useful for training a wide range of computer vision applications, such as
+medical imaging technology, autonomous vehicles, and face recognition.
+
+http://image-net.org/
+ImageNet is an image dataset organized according to the WordNet hierarchy.Each meaningful concept in WordNet, 
+possibly described by multiple words orword phrases, is called a "synonym set" or "synset". 
+There are more than 100,000synsets in WordNet, majority of them are nouns (80,000+).
+
+http://3dvision.princeton.edu/datasets.html
+Princeton University has several datasets for computer vision tasks.
+
+http://vision.stanford.edu/aditya86/ImageNetDogs/
+The Stanford Dogs dataset contains images of 120 breeds of dogs from aroundthe world. 
+This dataset has been built using images and annotation fromImageNet for the task of fine-grained image categorization.
+
+http://vis-www.cs.umass.edu/lfw/
+Labeled Faces in the Wild is a database of face photographs designed forstudying the problem of unconstrained face recognition. 
+The data set containsmore than 13,000 images of faces collected from the web. Each face has been labeled with the name 
+of the person pictured. 1680 of thepeople pictured have two or more distinct photos in the data set.
