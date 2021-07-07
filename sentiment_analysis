@@ -1,0 +1,15 @@
+Sentiment analysis models require large, specialized datasets to learn effectively. 
+The following list should hint at some of the endless ways that you can improve your sentiment analysis algorithm.
+
+http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+The Multi-Domain Sentiment Dataset contains product reviews taken fromAmazon.com from many product types (domains). 
+Some domains (books and DVDs) have hundreds of thousands of reviews. Others (musical instruments)have only a few hundred. 
+Reviews contain star ratings (1 to 5 stars) that can be converted into binary labels if needed.
+
+http://vision.stanford.edu/aditya86/ImageNetDogs/
+This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. 
+It provides a set of 25,000 highly polar movie reviews for training and 25,000 for testing. 
+There is additional unlabeled data for use as well. Raw text and an already processed bag of words formats are provided.
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+Twitter data on US airlines from February 2015, classified as positive, negative, and neutral tweets.
