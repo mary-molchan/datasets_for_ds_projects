@@ -1,0 +1,22 @@
+Natural language processing is a massive field of research, but the following list includes abroad range of datasets 
+for different natural language processing tasks, such as voice recognition and chatbots.
+
+https://snap.stanford.edu/data/web-Amazon.html
+This dataset consists of reviews from amazon. The data span a period of 18years, including ~35 million reviews up to March 2013. 
+Reviews include product and user information, ratings, and a plaintext review. 
+Note this dataset contains potential duplicates, due to products whose reviews Amazon merges.
+
+https://aws.amazon.com/datasets/google-books-ngrams/
+A data set containing Google Books n-gram corpora. N-grams are fixed-size tuples of items. 
+In this case, the items are words extracted from the GoogleBooks corpus. 
+The n specifies the number of elements in the tuple, so a 5-gram contains five words or characters.
+The n-grams in this dataset were produced by passing a sliding window of the text of books and 
+outputting a record for each new token. For example, the following sentence.
+
+https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+The Blog Authorship Corpus consists of the collected posts of 19,320 bloggers gathered from blogger.com in August 2004. 
+The corpus incorporates a total of681,288 posts and over 140 million words - or approximately 35 posts and 7250words per person. 
+Each blog is presented as a separate file, the name of which indicates a bloggerid# and the blogger’s self-provided gender, age, industry, and astrological sign.
+
+https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
+A JSON file containing 216,930 Jeopardy questions, answers, and other data.
